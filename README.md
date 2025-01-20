@@ -132,6 +132,7 @@ CABN-COVE is a full-stack web application designed to streamline the management 
 - **React**: Core library for building the UI.
 - **React Router**: For managing navigation and routes.
 - **React Hook Form**: For form management.
+- **tanstack/react-query**: For data fetching, caching, and state management.
 - **styled-components**: For styling components.
 - **react-error-boundary**: Error handling for React components.
 - **react-hot-toast**: For displaying notifications.
