@@ -228,4 +228,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For inquiries, please contact [your-email@example.com].
+For inquiries, please contact [harkouss.omar@gmail.com].
