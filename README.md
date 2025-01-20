@@ -28,6 +28,7 @@ CABN-COVE is a full-stack web application designed to streamline the management 
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Demo Video](#demo-Video)
 
 ---
 
@@ -230,3 +231,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 
 For inquiries, please contact [harkouss.omar@gmail.com].
+
+###Demo Video
+
+
+https://github.com/user-attachments/assets/8a50f362-bd30-4690-bb50-e22e4e16a6dc
+
